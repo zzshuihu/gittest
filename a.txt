@@ -1,4 +1,4 @@
 hello git!
 1.master add one note!
-2.newmaster add one note!
+2.newmaster add one note !
 finally ----> fixed
