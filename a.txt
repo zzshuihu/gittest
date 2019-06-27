@@ -6,3 +6,4 @@ hello git!
 finally ----> fixed
 local add 
 5.first fix
+6.second fix
