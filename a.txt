@@ -5,3 +5,4 @@ hello git!
 4.master add one!
 finally ----> fixed
 5.first fix
+6.second fixed
