@@ -4,3 +4,4 @@ hello git!
 3.newmaster add again !
 4.master add one!
 finally ----> fixed
+5.first fix
